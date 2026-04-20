@@ -1,1 +1,16 @@
+# SQL Sales Analysis Project
 
+A beginner SQL project built in MySQL.
+
+## Tables
+- Sales, Customer, Product, Region
+
+## Queries Cover
+- Best-selling product
+- Highest revenue region
+- Top spending customer
+- Gender & age group analysis
+- Sales segmentation using CASE
+
+## Concepts Used
+JOINs, GROUP BY, HAVING, Subqueries, CASE, Aggregate Functions
